@@ -28,10 +28,10 @@
     --transition-fast: 250ms;
     --transition-slow: 500ms;
     --transition-function: cubic-bezier(0.4, 0, 0.2, 1);
-
+ 
 }
 
-a {
+a{
     text-decoration: none;
     color: inherit;
 }
